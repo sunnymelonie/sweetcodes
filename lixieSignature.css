@@ -1,0 +1,5 @@
+.lixBG{background-color: #0f0d0e; border: 1px solid #252023; width: 475px;background-position: bottom center; background-image: url(https://i.imgur.com/MqGvmBv.png); background-repeat: no-repeat;border-radius: 42px / 69px;}
+.lixTit{font-family: UnifrakturCook; font-size: 30px; text-shadow: 0px 0px 2px, 1px 1px 1px black;color: #de474b;}
+.lixQ{font-family: Playfair Display; text-transform: uppercase; text-shadow: 0px 0px 2px, 1px 1px 1px black;color: #d5b0b0;}
+.lixIMG{background-color: #0f0000; border: 1px solid #2a1717; padding: 5px; width: 90px; border-radius: 120px; height: 90px; object-fit: cover;}
+.lixInf{font-family: Playfair Display; text-shadow: 0px 0px 2px, 1px 1px 1px black; text-transform: uppercase; padding: 1px; height: 16px; width: 146px; background-color: #0f0000; border: 1px solid #2a1717; text-align: center; border-radius: 120px; line-height: 16px; margin-bottom: 5px; color: #f56c6c;}
